@@ -31,7 +31,7 @@
     <title>网站搭建简述</title>
     <url>/2023/03/16/%E7%BD%91%E7%AB%99%E7%AE%80%E8%BF%B0/</url>
     <content><![CDATA[<ul>
-<li>博客基于开放平台Hexo，官网：<a  href ="https://hexo.io/zh-cn/">Hexo</a>下载并配置搭建，网站主题界面也是基于Hexo提供的378主题下载打包并配置，地址：<a  href ="https://hexo.io/themes/">Hexo内置378主题</a>。</li>
+<li>博客基于开放平台Hexo，官网：<a  href ="https://hexo.io/zh-cn/">Hexo</a>下载并配置搭建，网站主题界面也是基于Hexo提供的378主题下载打包并配置，地址链接：<a  href ="https://hexo.io/themes/">Hexo内置378主题</a>。</li>
 <li>网站本地编辑，使用轻量级标记语言Markdown语法。网站搭载在一个面向开源及私有软件项目的托管平台Github，官网：<a  href ="https://github.com">GitHub</a>，使用Git软件编写上传至Github，下载官网：<a  href ="https://git-scm.com/">Git</a>。</li>
 <li>网站顶部随机刷新的一句话是调用一言API，官网：<a  href ="https://hitokoto.cn/">一言API</a></li>
 <li>网站评论系统采用Valine，Github项目地址：<a  href ="https://github.com/xCss/Valine">Valine Github</a>，另官网：<a  href ="https://valine.js.org/quickstart.html">Valine</a></li>
