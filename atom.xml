@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小歪</title>
+  
+  <subtitle>小歪博客</subtitle>
+  <link href="https://ixiaowai.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ixiaowai.github.io/"/>
+  <updated>2023-03-27T04:51:59.074Z</updated>
+  <id>https://ixiaowai.github.io/</id>
+  
+  <author>
+    <name>Xiaowai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站搭建简述</title>
+    <link href="https://ixiaowai.github.io/2023/03/16/%E7%BD%91%E7%AB%99%E7%AE%80%E8%BF%B0/"/>
+    <id>https://ixiaowai.github.io/2023/03/16/%E7%BD%91%E7%AB%99%E7%AE%80%E8%BF%B0/</id>
+    <published>2023-03-16T14:02:51.000Z</published>
+    <updated>2023-03-27T04:51:59.074Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;博客基于开放平台Hexo，官网：&lt;a  href =&quot;https://hexo.io/zh-cn/&quot;&gt;Hexo&lt;/a&gt;下载并配置搭建，网站主题界面也是基于Hexo提供的378主题下载打包并配置，地址：&lt;a  href</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>评论测试页面</title>
+    <link href="https://ixiaowai.github.io/2023/03/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/"/>
+    <id>https://ixiaowai.github.io/2023/03/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</id>
+    <published>2023-03-15T11:42:24.000Z</published>
+    <updated>2023-03-15T11:44:18.368Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今日网站新增功能：评论！&lt;br&gt;点开文章往下翻，然后就有评论功能了&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://ixiaowai.github.io/2023/03/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://ixiaowai.github.io/2023/03/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-03-14T14:13:48.000Z</published>
+    <updated>2023-03-20T12:09:32.531Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天我的网站经过波折算是上线开始运行了…真不容易啊&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="日志" scheme="https://ixiaowai.github.io/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ixiaowai.github.io/2023/03/14/hello-world/"/>
+    <id>https://ixiaowai.github.io/2023/03/14/hello-world/</id>
+    <published>2023-03-14T13:20:40.805Z</published>
+    <updated>2023-03-14T13:20:40.805Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

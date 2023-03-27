@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/03/14/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/2023/03/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>今天我的网站经过波折算是上线开始运行了…真不容易啊</p>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站搭建简述</title>
+    <url>/2023/03/16/%E7%BD%91%E7%AB%99%E7%AE%80%E8%BF%B0/</url>
+    <content><![CDATA[<ul>
+<li>博客基于开放平台Hexo，官网：<a  href ="https://hexo.io/zh-cn/">Hexo</a>下载并配置搭建，网站主题界面也是基于Hexo提供的378主题下载打包并配置，地址：<a  href ="https://hexo.io/themes/">Hexo内置378主题</a>。</li>
+<li>网站本地编辑，使用轻量级标记语言Markdown语法。网站搭载在一个面向开源及私有软件项目的托管平台Github，官网：<a  href ="https://github.com">GitHub</a>，使用Git软件编写上传至Github，下载官网：<a  href ="https://git-scm.com/">Git</a>。</li>
+<li>网站顶部随机刷新的一句话是调用一言API，官网：<a  href ="https://hitokoto.cn/">一言API</a></li>
+<li>网站评论系统采用Valine，Github项目地址：<a  href ="https://github.com/xCss/Valine">Valine Github</a>，另官网：<a  href ="https://valine.js.org/quickstart.html">Valine</a></li>
+<li>界面中所有彩色字体均可通过点击访问对应界面。</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>评论测试页面</title>
+    <url>/2023/03/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/</url>
+    <content><![CDATA[<p>今日网站新增功能：评论！<br>点开文章往下翻，然后就有评论功能了</p>
+]]></content>
+  </entry>
+</search>
